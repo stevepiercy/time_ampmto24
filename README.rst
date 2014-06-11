@@ -3,7 +3,7 @@ time_ampmto24 - Lasso 8 custom tag converts a time with an AM/PM designation to 
 
 Read the article `time_ampmto24 - Lasso 8 custom tag converts a time with an
 AM/PM designation to 24-hour time
-<http://www.stevepiercy.com/time_ampmto24-lasso-8-custom-tag-converts-a-time-with-an-ampm-designation-to-24-hour-time.html>`_.
+<http://www.stevepiercy.com/articles/time_ampmto24-lasso-8-custom-tag-converts-a-time-with-an-ampm-designation-to-24-hour-time/>`_.
 
 Description
 ===========
