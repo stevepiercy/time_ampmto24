@@ -1,8 +1,8 @@
 ﻿[
-// Either load the file time_ampmto24.inc during server or site startup,
+// Either load the file time_ampmto24.lasso during server or site startup,
 // in server or site library, or include it.  Choose one method.
 // I recommend site startup.
-// include('time_ampmto24.inc'); // optional loading method
+// include('time_ampmto24.lasso'); // optional loading method
 ]
 <!DOCTYPE html>
 <html>
